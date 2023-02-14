@@ -1,0 +1,57 @@
+.h{
+    color: orangered;
+}
+button{
+padding: 15PX 6px;
+border: none;
+font-weight: bold;
+font-size: 12px;
+    background-color: orangered;
+    color: white;
+    border-radius: 21px;
+}
+button:hover, button:focus,
+.F{
+color:rgb(18, 121, 121);
+
+}
+.for{
+display: block;
+float: left;
+margin: 20px;
+padding: 30px;
+padding-right: 20PX;
+}
+.para{
+background-color: rgb(83, 83, 197);
+color: white;
+}
+.shop{
+  text-align: right;
+  color: orangered; 
+  display: block;
+}
+.sale{
+    background-color: orangered;
+    height: 40px;
+    color: white;
+}
+.rs{
+    color: black;
+    }
+.figure-caption{
+    color: orangered;
+    text-align:justify;
+}
+.pic{
+    background-color: grey;
+}
+.card-title{
+    color: orangered;
+
+}
+.border{
+    background-color: rgb(27, 27, 105);
+    color: white;
+    height: 40px;
+}
